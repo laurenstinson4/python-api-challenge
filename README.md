@@ -1,5 +1,3 @@
-DO NOT WORK INSIDE THIS FOLDER! COPY THE CONTENTS TO YOUR GITHUB REPO
-
 # Python API Homework - What's the Weather Like?
 
 ## Background
